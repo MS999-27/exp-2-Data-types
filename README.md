@@ -3,7 +3,7 @@
 To learn about different data types and their size and demonstration of storage classes.
 
 # Software Used
-VS Code
+VS Code and Cpp Online Compiler
 
 # Problem Statement
 1.) Write a program to show size of different data types.
