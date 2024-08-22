@@ -53,7 +53,9 @@ return 0;
 }
 ```
 # Output
+### Size
 ![Exp2 Size](https://github.com/user-attachments/assets/64773631-9a7f-4ced-b3f3-348bbcb8ba95)
+### Static
 ![Exp@ static](https://github.com/user-attachments/assets/41b54e6e-6094-4272-a313-2970d17380fe)
 # Cocnclusion
 We learnt to use _'size of'_ function & static class.
